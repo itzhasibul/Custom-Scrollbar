@@ -25,6 +25,7 @@ section h2 {
 section p {
     color: #666;
     font-size: 1.2em;
+    text-align: justify;
 }
 
 ::-webkit-scrollbar {
